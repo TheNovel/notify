@@ -25,7 +25,7 @@
     "commitizen": "^4.0.4",
     "cz-conventional-changelog": "^3.1.0",
     "dotenv": "^8.2.0",
-    "eslint": "^6.8.0",
+    "eslint": "^7.4.0",
     "eslint-config-airbnb-base": "^14.1.0",
     "eslint-config-prettier": "^6.10.1",
     "eslint-import-resolver-node": "latest",
